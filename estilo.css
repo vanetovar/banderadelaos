@@ -1,0 +1,29 @@
+div {
+  background-color: #ce1126;
+width: 900px;
+height: 600px;
+}
+
+div p{
+  color: white;
+  text-align: center;
+  font-size: 70px;
+}
+
+div div {
+  background-color: #002868;
+  height: 300px;
+  position: absolute;
+}
+
+div div div p {
+  border-radius: 100%;
+  background-color: white;
+  margin-top: 50px;
+  margin-left: 350px;
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  color: black;
+  font-size: 80px;
+}
